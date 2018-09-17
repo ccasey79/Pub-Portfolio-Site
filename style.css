@@ -5,5 +5,7 @@
 }
 
 body {
-    background: lightcyan;
+    background: url(../images/landingImage.jpg) no-repeat;
+    background-size: cover;
+
 }
